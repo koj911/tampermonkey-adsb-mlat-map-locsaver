@@ -42,7 +42,7 @@
 
 ### ライセンス
 
-このスクリプトはMITライセンスで公開されています。
+このスクリプトはGPL-3.0ライセンスで公開されています。
 
 ---
 
@@ -88,4 +88,4 @@ This Tampermonkey script controls the map display range of ADS-B Exchange MLAT M
 
 ### License
 
-This script is released under the MIT license.
+This script is released under the GPL-3.0 license.
