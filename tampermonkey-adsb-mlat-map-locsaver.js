@@ -5,7 +5,7 @@
 // @description  ADS-B Exchange MLAT Mapの地図表示範囲を制御し、ローカルストレージに保存/復元
 // @author       https://github.com/koj911
 // @match        https://map.adsbexchange.com/mlat-map/
-// @match        https://map.airplanes.live/index.html
+// @match        https://map.airplanes.live/mlat-map/
 // @grant        none
 // ==/UserScript==
 
